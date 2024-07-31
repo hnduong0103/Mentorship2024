@@ -1,0 +1,14 @@
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\bin\Debug\net6.0\CountElementFrequency.exe
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\bin\Debug\net6.0\CountElementFrequency.deps.json
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\bin\Debug\net6.0\CountElementFrequency.runtimeconfig.json
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\bin\Debug\net6.0\CountElementFrequency.dll
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\bin\Debug\net6.0\CountElementFrequency.pdb
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\CountElementFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\CountElementFrequency.AssemblyInfoInputs.cache
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\CountElementFrequency.AssemblyInfo.cs
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\CountElementFrequency.csproj.CoreCompileInputs.cache
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\CountElementFrequency.dll
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\refint\CountElementFrequency.dll
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\CountElementFrequency.pdb
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\CountElementFrequency.genruntimeconfig.cache
+C:\Users\hnduo\source\repos\CountElementFrequency\CountElementFrequency\obj\Debug\net6.0\ref\CountElementFrequency.dll

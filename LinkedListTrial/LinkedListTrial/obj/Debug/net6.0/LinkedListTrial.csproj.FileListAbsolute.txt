@@ -1,0 +1,14 @@
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\bin\Debug\net6.0\LinkedListTrial.exe
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\bin\Debug\net6.0\LinkedListTrial.deps.json
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\bin\Debug\net6.0\LinkedListTrial.runtimeconfig.json
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\bin\Debug\net6.0\LinkedListTrial.dll
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\bin\Debug\net6.0\LinkedListTrial.pdb
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\LinkedListTrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\LinkedListTrial.AssemblyInfoInputs.cache
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\LinkedListTrial.AssemblyInfo.cs
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\LinkedListTrial.csproj.CoreCompileInputs.cache
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\LinkedListTrial.dll
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\refint\LinkedListTrial.dll
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\LinkedListTrial.pdb
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\LinkedListTrial.genruntimeconfig.cache
+C:\Users\hnduo\source\repos\LinkedListTrial\LinkedListTrial\obj\Debug\net6.0\ref\LinkedListTrial.dll
