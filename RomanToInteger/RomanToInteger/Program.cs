@@ -13,32 +13,39 @@
             {'M', 1000}
         };
 
-        public static int RomanToInteger(string input)
+        public static int RomanToInteger(string romanStr)
         {
             int number = 0;
-            for (int i = 0; i < input.Length; i++)
+            for (int i = 0; i < romanStr.Length; i++)
             {
-                if (i + 1 < input.Length && romanDictionary[input[i]] < romanDictionary[input[i + 1]])
+                if (i + 1 >= romanStr.Length) //last digit of roman string
                 {
-                    number -= romanDictionary[input[i]];
+                    number += romanDictionary[romanStr[i]];
+                    continue;
+                }
+
+                if (romanDictionary[romanStr[i]] < romanDictionary[romanStr[i + 1]])
+                {
+                    number -= romanDictionary[romanStr[i]];
                 }
                 else
                 {
-                    number += romanDictionary[input[i]];
+                    number += romanDictionary[romanStr[i]];
                 }
             }
             return number;
         }
 
-        public static void PrintSample()
+        public static void PrintRomanToInteger(string romanStr)
         {
-            Console.WriteLine("MCMXCIV -> " + RomanToInteger("MCMXCIV"));
-            Console.WriteLine("MMI -> " + RomanToInteger("MMI"));
+            Console.WriteLine($"{romanStr} -> {RomanToInteger(romanStr)}");
         }
 
         static void Main(string[] args)
         {
-            PrintSample();
+            PrintRomanToInteger("MMI");
+            PrintRomanToInteger("MMXVI");
+            PrintRomanToInteger("MCMXCIV");
         }
     }
 }

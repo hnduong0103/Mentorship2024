@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hnduo\\source\\repos\\RomanToInteger\\RomanToInteger\\RomanToInteger.csproj",
+      "projectUniqueName": "E:\\Mentorship2024\\RomanToInteger\\RomanToInteger\\RomanToInteger.csproj",
       "projectName": "RomanToInteger",
-      "projectPath": "C:\\Users\\hnduo\\source\\repos\\RomanToInteger\\RomanToInteger\\RomanToInteger.csproj",
+      "projectPath": "E:\\Mentorship2024\\RomanToInteger\\RomanToInteger\\RomanToInteger.csproj",
       "packagesPath": "C:\\Users\\hnduo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hnduo\\source\\repos\\RomanToInteger\\RomanToInteger\\obj\\",
+      "outputPath": "E:\\Mentorship2024\\RomanToInteger\\RomanToInteger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hnduo\\AppData\\Roaming\\NuGet\\NuGet.Config",
