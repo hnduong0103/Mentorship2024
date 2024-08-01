@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hnduo\\source\\repos\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj": {}
+    "E:\\Mentorship2024\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hnduo\\source\\repos\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj": {
+    "E:\\Mentorship2024\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hnduo\\source\\repos\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj",
+        "projectUniqueName": "E:\\Mentorship2024\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj",
         "projectName": "CountElementFrequency",
-        "projectPath": "C:\\Users\\hnduo\\source\\repos\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj",
+        "projectPath": "E:\\Mentorship2024\\CountElementFrequency\\CountElementFrequency\\CountElementFrequency.csproj",
         "packagesPath": "C:\\Users\\hnduo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hnduo\\source\\repos\\CountElementFrequency\\CountElementFrequency\\obj\\",
+        "outputPath": "E:\\Mentorship2024\\CountElementFrequency\\CountElementFrequency\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hnduo\\AppData\\Roaming\\NuGet\\NuGet.Config",

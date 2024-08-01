@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountElementFrequency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1447fe456c6ea55d5ec59c862926f1b163bb556")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountElementFrequency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountElementFrequency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
