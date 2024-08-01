@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hnduo\\source\\repos\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj": {}
+    "E:\\Mentorship2024\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hnduo\\source\\repos\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj": {
+    "E:\\Mentorship2024\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hnduo\\source\\repos\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj",
+        "projectUniqueName": "E:\\Mentorship2024\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj",
         "projectName": "LinkedListTrial",
-        "projectPath": "C:\\Users\\hnduo\\source\\repos\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj",
+        "projectPath": "E:\\Mentorship2024\\LinkedListTrial\\LinkedListTrial\\LinkedListTrial.csproj",
         "packagesPath": "C:\\Users\\hnduo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hnduo\\source\\repos\\LinkedListTrial\\LinkedListTrial\\obj\\",
+        "outputPath": "E:\\Mentorship2024\\LinkedListTrial\\LinkedListTrial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hnduo\\AppData\\Roaming\\NuGet\\NuGet.Config",

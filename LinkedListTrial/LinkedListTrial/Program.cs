@@ -68,7 +68,7 @@
             {
                 Console.WriteLine("Empty list");
             }
-            else if (index == 0) //delete head only node
+            else if (index == 0) //delete head if only 1 node
             {
                 head = null;
             }
@@ -107,17 +107,20 @@
             head.next = new Node(2);
             head.next.next = new Node(4);
             head.next.next.next = new Node(5);
-
             Console.WriteLine("Linked list init: ");
             printList();
 
             int val = 3;
             int index = 2;
+            //Insert
             insertAt(val, index);
-
-            Console.WriteLine("Linked list appended value "+ val +" at index " + index +": ");
+            Console.WriteLine($"Linked list appended value {val} at index {index}: ");
             printList();
-            deleteAt(4);
+
+            //Delete
+            index = 4;
+            deleteAt(index);
+            Console.WriteLine($"Linked list delete value at index {index}: ");
             printList();
         }
     }
